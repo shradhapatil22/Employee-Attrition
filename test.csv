@@ -1,0 +1,2 @@
+Age,Attrition,BusinessTravel,DailyRate,DistanceFromHome,Education,EducationField,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsSinceLastPromotion
+24,No,Non-Travel,673,11,2,Other,1,Female,96,4,Manufacturing Director,3,Divorced,4011,8232,0,No,3,4,1,5,5,2,4,1
